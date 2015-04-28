@@ -1,0 +1,9 @@
+.column {
+	width: 150px;
+	display: table-cell;
+}
+.well img {
+	width: 200px;
+	height: 150px;
+	
+}
